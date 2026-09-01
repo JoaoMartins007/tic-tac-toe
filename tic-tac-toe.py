@@ -38,6 +38,7 @@ while True:
                     print("Essa posição está ocupada")
                     desenhar_tabuleiro(tab)
             tab[resposta] = jogador_atual
+            #alo
             
             
 
